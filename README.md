@@ -16,4 +16,6 @@ The Van de Graaff Generator is an electrostatic device used to generate large am
 
 ![VanGenerator-on](VanGenerator-on.png)
 
->[!] NOTE In the development of this simulation, I am joined by my friend and classmate, [Alef Joseneudo](https://github.com/alefjmelo), who is responsible for the visual design
+>[!] NOTE 
+>
+>In the development of this simulation, I am joined by my friend and classmate, [Alef Joseneudo](https://github.com/alefjmelo), who is responsible for the visual design
